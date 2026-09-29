@@ -1,0 +1,11 @@
+node_modules
+all/node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+env
+all/env
+all/.env
+all/GWJOINBOT/.env
+*.md
