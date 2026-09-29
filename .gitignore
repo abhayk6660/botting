@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+all/node_modules/
+package-lock.json
+all/package-lock.json
+
+# Environment variables & secrets (CRITICAL: Do NOT remove)
+.env
+.env.*
+!.env.example
+env
+all/env
+all/.env
+all/.env.*
+all/GWJOINBOT/.env
+
+# Local logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,60 @@
+{
+  "color": {
+    "blue": 12,
+    "red": 9,
+    "purple": 7,
+    "yellow": 10,
+    "green": 8,
+    "orange": 5
+  },
+  "food": {
+    "ice cream": 4,
+    "pizza": 7,
+    "fries": 7,
+    "burger": 8,
+    "donut": 2,
+    "taco": 4,
+    "hot dog": 2
+  },
+  "fruit": {
+    "mango": 6,
+    "strawberry": 5,
+    "peach": 6,
+    "kiwi": 2,
+    "orange": 4,
+    "banana": 5,
+    "apple": 3
+  },
+  "animal": {
+    "dog": 3,
+    "lion": 4,
+    "bear": 4,
+    "chicken": 6,
+    "panda": 2,
+    "mouse": 2,
+    "pig": 7,
+    "tiger": 3,
+    "cat": 4
+  },
+  "rank": {
+    "radiant": 11,
+    "divine": 6,
+    "cosmic": 8,
+    "ethereal": 6,
+    "luminary": 6,
+    "catalyst": 8,
+    "member": 5
+  },
+  "number": {
+    "1": 6,
+    "2": 4,
+    "3": 6,
+    "4": 7,
+    "5": 3,
+    "6": 3,
+    "7": 4,
+    "8": 5,
+    "9": 2,
+    "10": 2
+  }
+}

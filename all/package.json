@@ -1,0 +1,16 @@
+{
+  "name": "gw-join-bot",
+  "version": "1.0.0",
+  "description": "Giveaway and Trivia Bot",
+  "main": "gwjoinbot.js",
+  "scripts": {
+    "start": "node gwjoinbot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "ws": "^8.14.0"
+  }
+}
