@@ -1,22 +1,22 @@
 {
   "totalWins": 0,
   "hourlyWins": 0,
-  "totalReacted": 696,
+  "totalReacted": 704,
   "triviaGames": 0,
   "triviaWins": 0,
   "accountWins": {},
   "liveMessageId": "1554185439831662593",
   "lastReaction": "<a:Z23:1298856059817168996>",
-  "lastReactionTime": 1790705806,
-  "lastTrivia": "Sent **\"mango\"**",
-  "lastTriviaTime": 1790705833,
+  "lastReactionTime": 1790706188,
+  "lastTrivia": "Sent **\"yellow\"**",
+  "lastTriviaTime": 1790705984,
   "lastWin": "None yet",
   "lastWinTime": null,
   "activityLogs": [
-    "`[23:47:13]` 🎯 Guessed **\"mango\"** in trivia",
-    "`[23:46:46]` ✅ Reacted to message #4555 with <a:Z23:1298856059817168996>",
-    "`[23:45:58]` ✅ Reacted to message #4548 with <a:Z23:1298856059817168996>",
-    "`[23:45:08]` ✅ Reacted to message #4416 with <a:Z23:1298856059817168996>",
-    "`[23:44:31]` ✅ Reacted to message #8431 with <a:Z23:1298856059817168996>"
+    "`[23:53:08]` ✅ Reacted to message #3589 with <a:Z23:1298856059817168996>",
+    "`[23:52:32]` ✅ Reacted to message #3426 with <a:Z23:1298856059817168996>",
+    "`[23:51:43]` ✅ Reacted to message #5162 with <a:Z23:1298856059817168996>",
+    "`[23:50:54]` ✅ Reacted to message #3103 with <a:Z23:1298856059817168996>",
+    "`[23:50:03]` ✅ Reacted to message #4908 with <a:Z23:1298856059817168996>"
   ]
 }
